@@ -1,0 +1,10 @@
+{
+    "wifi": {
+      "ssid": "SSID",
+      "password": "PASS"
+    },
+    "server": {
+      "port": 5000
+    }
+  }
+  
